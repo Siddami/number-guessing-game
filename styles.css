@@ -21,6 +21,10 @@ html {
     padding: 2rem;
   }
 
+  .form{
+    
+  }
+
   .form input[type="number"] {
     width: 200px;
   }
