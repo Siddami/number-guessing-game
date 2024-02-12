@@ -16,7 +16,7 @@ html {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    box-shadow: 10px 10px 5px 0px rgba(81, 80, 80, 0.75);
+    box-shadow: 10px 10px 5px 0px #5d5d5d97;
     background-color: white;
     padding: 2rem;
   }
